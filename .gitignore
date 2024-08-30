@@ -1,0 +1,6 @@
+.env
+venv
+*/__pycache__
+telco.csv
+customers.db
+.DS_Store
