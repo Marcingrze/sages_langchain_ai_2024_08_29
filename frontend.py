@@ -9,7 +9,6 @@ from pathlib import Path
 import openai
 import streamlit as st
 from streamlit_mic_recorder import mic_recorder
-from ai.db_tool import DBTool
 from ai.agent import run_agent
 
 
