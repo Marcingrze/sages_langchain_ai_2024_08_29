@@ -4,3 +4,4 @@ venv
 telco.csv
 customers.db
 .DS_Store
+nazwa_środowiska
